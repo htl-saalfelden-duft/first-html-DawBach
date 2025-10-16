@@ -20,8 +20,16 @@ main{
     border: 2px solid;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    margin-left: 250px;
+    margin-left: 500px;
     padding-top: 1rem;
     padding-bottom: 1rem;
     width: 500px;
+}
+
+Footer{
+    border: 2px solid;
+    background-color: lightblue;
+    padding-left: 1350px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
