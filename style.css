@@ -1,0 +1,27 @@
+h1{
+    color: dodgerblue;
+    border: 2px solid;
+    text-align: center;
+}
+
+main{
+    border: 2px solid;
+}
+
+#BildundText{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#Motto{
+    text-align: center;
+    border: 2px solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 250px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 500px;
+}
